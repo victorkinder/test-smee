@@ -5,9 +5,3 @@ sss
 ssa
 sss
 ddd
-jkja
-ss
-ss
-ss
-ss
-s
