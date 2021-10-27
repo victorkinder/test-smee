@@ -8,5 +8,3 @@ sss
 sssss
 ddddd
 shuahsua
-dddd
-aaaaa
