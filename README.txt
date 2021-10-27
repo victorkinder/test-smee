@@ -3,5 +3,4 @@ ss
 ssss
 dddd
 ssss
-sssss
-ddddd
+ssss
