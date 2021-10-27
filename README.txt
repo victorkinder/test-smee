@@ -1,5 +1,3 @@
 ssss
 ss
 ssss
-
-ssss
