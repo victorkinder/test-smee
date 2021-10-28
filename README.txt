@@ -3,9 +3,3 @@ ss
 sss
 dsds
 dsada
-sdsd
-sdsd
-dsds
-ds
-dsd
-ds
